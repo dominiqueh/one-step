@@ -13,9 +13,8 @@ ESLint
   https://www.youtube.com/watch?v=deyxI-6C2u4
   https://www.youtube.com/watch?v=
 
-  https://medium.com/swlh/2020-settings-of-react-typescript-project-with-webpack-and-babel-403c92feaa06
-  https://webpack.js.org/api/cli/
+-Commands
 
-https://iamturns.com/typescript-babel/
-
-https://www.youtube.com/watch?v=LCqchxJpX1E
+- Don't forget to install dependencies after taking down repo
+  -'npm i' to install
+  -'npm start' to run the project
